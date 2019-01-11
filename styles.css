@@ -1,0 +1,47 @@
+
+
+.container{
+  text-align: center;
+  margin: auto;
+  margin-top: 5rem;
+}
+.box1{
+  background: red;
+  width: 40rem;
+  height: 30rem;
+  border: 6px solid;
+  margin:auto;
+  border-radius: 5px;
+}
+.box2{
+  background: yellow;
+  width: 30rem;
+  height: 25rem;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  border: 6px solid;
+  border-radius: 5px;
+
+
+}
+.box3{
+  background: brown;
+  width: 20rem;
+  height: 20rem;
+  margin-left: 5rem;
+  margin-top: 1rem;
+  border: 6px solid;
+  border-radius: 5px;
+
+}
+.box4{
+  background: purple;
+  width: 10rem;
+  height: 10rem;
+  margin-left: 5rem;
+  margin-top: 3rem;
+  border: 6px solid;
+  border-radius: 5px;
+
+  
+}
